@@ -107,3 +107,44 @@ text-align:center
     margin:0 1%;
     margin-top:1%
 }
+.i {
+    width:100%;
+    margin:0 auto;
+    border:solid 1px black;
+    border-bottom:none
+}
+#大文字 {
+    text-align:center;
+    padding:1% 2%;
+    font-size:1.5em;
+    color:white;
+    background-color:black;
+    border:solid 1px black
+}
+#記事画像 {
+    display:block;
+    margin:0 auto;
+    width:30%;
+    min-width:100px;
+    padding:0 5%
+}
+.項目 {
+text-align:center;
+padding:1%;
+border:solid 1px black;
+border-bottom:none;
+background-color:rgb(236, 236, 236);
+}
+.項目内部 {
+text-align:center;
+padding:1%;
+border:solid 1px black;
+}
+.項目下 {
+text-align:center;
+padding:1%;
+border:solid 1px black;
+border-top:none;
+border-bottom:none;
+background-color:rgb(236, 236, 236);
+}
